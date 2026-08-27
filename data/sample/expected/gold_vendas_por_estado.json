@@ -1,0 +1,22 @@
+{
+  "AM": {
+    "faturamento": "6050.00",
+    "qtd_pedidos": 3,
+    "ticket_medio": "2016.666666666666666666666667"
+  },
+  "PA": {
+    "faturamento": "3680.00",
+    "qtd_pedidos": 2,
+    "ticket_medio": "1840.00"
+  },
+  "RJ": {
+    "faturamento": "120.00",
+    "qtd_pedidos": 1,
+    "ticket_medio": "120.00"
+  },
+  "SP": {
+    "faturamento": "1500.00",
+    "qtd_pedidos": 2,
+    "ticket_medio": "750.00"
+  }
+}

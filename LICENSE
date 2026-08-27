@@ -1,0 +1,121 @@
+PySpark na Prática — Licenciamento
+
+Copyright (c) 2026 Elison P Melgueiro
+
+
+1. CÓDIGO-FONTE E MATERIAIS TÉCNICOS
+
+Salvo indicação expressa em contrário, o código-fonte, scripts,
+testes automatizados, exemplos técnicos, arquivos de configuração,
+pipelines, workflows de CI/CD e datasets sintéticos disponibilizados
+neste repositório são licenciados sob a MIT License.
+
+MIT License
+
+Copyright (c) 2026 Elison P Melgueiro
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files
+(the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+2. LIVRO E CONTEÚDO EDITORIAL
+
+A MIT License descrita acima NÃO se aplica ao conteúdo editorial do
+livro:
+
+"PySpark na Prática — Engenharia de Dados do Zero à Produção"
+
+incluindo, sem limitação:
+
+- texto integral do livro;
+- capítulos;
+- organização editorial;
+- estrutura narrativa e didática;
+- exercícios autorais quando integrados ao conteúdo editorial;
+- comentários e explicações;
+- ilustrações;
+- diagramas editoriais;
+- capa;
+- projeto gráfico;
+- edição digital;
+- edição impressa;
+- arquivos de editoração;
+- materiais comerciais derivados da obra.
+
+Esses elementos constituem obra autoral separada do software
+disponibilizado neste repositório.
+
+
+Copyright (c) 2026 Elison P Melgueiro
+Todos os direitos reservados.
+
+
+O conteúdo editorial do livro não pode ser reproduzido, distribuído,
+publicado, comercializado, adaptado ou disponibilizado integralmente
+sem autorização prévia do autor, exceto nos limites expressamente
+permitidos pela legislação aplicável.
+
+
+3. DISTINÇÃO ENTRE LIVRO E REPOSITÓRIO
+
+Este repositório foi criado como material técnico oficial de apoio ao
+livro.
+
+A disponibilização pública do código sob a MIT License não implica:
+
+- liberação do manuscrito;
+- transferência de direitos autorais sobre o livro;
+- autorização para redistribuição do conteúdo editorial;
+- autorização para publicação de cópias da obra;
+- autorização para comercialização do livro ou de versões derivadas
+  de seu conteúdo editorial.
+
+Em resumo:
+
+CÓDIGO DO REPOSITÓRIO
+    ->
+MIT License
+
+TEXTO E EDIÇÃO DO LIVRO
+    ->
+Copyright (c) 2026 Elison P Melgueiro
+Todos os direitos reservados.
+
+
+4. DADOS DE EXEMPLO
+
+Os datasets disponibilizados neste repositório são sintéticos e foram
+criados exclusivamente para fins educacionais e demonstrações
+técnicas.
+
+Salvo indicação expressa em contrário, esses datasets de exemplo são
+tratados como parte dos materiais técnicos licenciados sob os termos
+da MIT License deste repositório.
+
+
+5. MARCAS E TECNOLOGIAS DE TERCEIROS
+
+Apache Spark, PySpark, Delta Lake, Databricks, GitHub e demais nomes
+de produtos, projetos ou empresas mencionados pertencem aos seus
+respectivos titulares.
+
+A utilização desses nomes neste projeto possui finalidade educacional
+e descritiva e não implica afiliação, patrocínio ou endosso por parte
+de seus respectivos titulares.

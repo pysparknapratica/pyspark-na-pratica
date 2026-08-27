@@ -1,0 +1,10 @@
+{
+  "total": 10,
+  "validos": 8,
+  "invalidos": 2,
+  "taxa_qualidade": 0.8,
+  "invalid_ids": [
+    "P1009",
+    "P1010"
+  ]
+}

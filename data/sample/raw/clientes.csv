@@ -1,0 +1,11 @@
+cliente_id,nome,estado,ativo
+C501,Ana,AM,true
+C502,Carlos,PA,true
+C503,Mariana,SP,true
+C504,Joao,AM,true
+C505,Beatriz,RJ,true
+C506,Rafael,AM,true
+C507,Lucia,PA,false
+C508,Paulo,SP,true
+C509,Carla,AM,true
+C510,Diego,AM,true

@@ -1,0 +1,6 @@
+{
+  "env": "dev",
+  "spark_master": "local[*]",
+  "data_root": "data",
+  "timezone": "UTC"
+}

@@ -1,0 +1,3 @@
+pedido_id,cliente_id,estado,produto_id,produto,quantidade,valor
+P2001,C501,AM,PR01,Notebook,1,3500.00
+P2002,C502,PA,PR02,Mouse,2,80.00

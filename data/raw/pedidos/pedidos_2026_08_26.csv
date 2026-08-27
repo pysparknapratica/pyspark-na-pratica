@@ -1,0 +1,3 @@
+pedido_id,cliente_id,estado,produto_id,produto,quantidade,valor
+P2003,C503,SP,PR03,Monitor,1,1200.00
+P2004,C504,AM,PR04,Teclado,1,150.00

@@ -1,0 +1,5 @@
+produto_id,descricao,categoria,preco,estoque
+PR01,Notebook,INFORMATICA,3500.00,25
+PR02,Mouse,ACESSORIOS,40.00,120
+PR03,Monitor,INFORMATICA,1200.00,45
+PR04,Teclado,ACESSORIOS,150.00,80
